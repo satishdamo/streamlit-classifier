@@ -1,0 +1,14 @@
+pip install streamlit
+
+
+streamlit hello
+
+
+pip install scikit-learn 
+
+
+pip install joblib
+
+git init
+git remote add origin https://github.com/satishdamo/streamlit-classifier.git
+
